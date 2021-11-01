@@ -1,0 +1,2 @@
+# cyptocurrency
+Cyptocurrency ideas
