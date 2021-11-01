@@ -19,6 +19,10 @@ Cyptocurrency ideas
 * Ethereum2
 * Cosmos
 
+# What is DeFi?
+
+https://www.reddit.com/r/defi/comments/qkcqix/defi_comparison_across_different_l1_chains/
+
 ## Polkadot
 
 How to run a Polkadot Node:
