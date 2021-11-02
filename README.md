@@ -19,6 +19,26 @@ Cyptocurrency ideas
 * Ethereum2
 * Cosmos
 
+# Cryptocurrency Exchanges
+
+The easiest way to buy crypto is to get into an exchange.
+
+Note that when you buy crypto, you should really be the holder of it, and not have a 3rd
+party hold it.
+
+For example, RobinHood lets you "buy" crypto, like Bitcoin, but you can not transfer it out of
+RobinHood to another exchange so you really do not own it. Avoid this. The real exchanges are
+just as easy to use as RobinHood, and you will want to be able to transfer your money to a wallet
+or another exchange.
+
+* Coinbase - the biggest exchange
+
+* Kraken - lots of staking opportunities
+
+* Gemini
+
+* Binance - Has its own blockchain and coin. Lots of coins that can not be bought in many other exchanges.
+
 # What is DeFi?
 
 https://www.reddit.com/r/defi/comments/qkcqix/defi_comparison_across_different_l1_chains/
