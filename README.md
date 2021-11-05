@@ -53,6 +53,11 @@ All Polkadot Nodes:
 
 https://telemetry.polkadot.io/#map/0x91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3
 
+# Relay Nodes
+
+## Cardano (ADA) Relay Node
+
+https://cardano-node-installation.stakepool247.eu/cardano-node-prerequisites
 
 # Making Money
 
