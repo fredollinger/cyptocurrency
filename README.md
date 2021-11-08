@@ -47,6 +47,8 @@ or another exchange.
 
 * Binance - Has its own blockchain and coin. Lots of coins that can not be bought in many other exchanges.
 
+
+
 # What is DeFi?
 
 https://www.reddit.com/r/defi/comments/qkcqix/defi_comparison_across_different_l1_chains/
@@ -128,3 +130,9 @@ Validation requires block validators verifying the authenticity of transactions,
 Stellar Lumen (XLM)
 
 https://www.kraken.com/en-us/learn/what-is-stellar-xlm/?gclid=CjwKCAjwoP6LBhBlEiwAvCcthGd9IOHRTzjrOMHXN64ygOiHMdFFIvDVRBNP06PTL23nNG8rWQMLCRoC4YMQAvD_BwE
+
+2. Polygon Cheapest Gas
+
+You can go here then go to Polygon Bridge, connnect your wallet then swap for gas.
+
+https://wallet.polygon.technology/
