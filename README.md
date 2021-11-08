@@ -19,6 +19,14 @@ Cyptocurrency ideas
 * Ethereum2
 * Cosmos
 
+# Mining ROI
+
+Return on investment for particular GPUs and cryptocoin connections.
+
+* https://2cryptocalc.com/
+
+* https://www.nicehash.com/profitability-calculator
+
 # Cryptocurrency Exchanges
 
 The easiest way to buy crypto is to get into an exchange.
