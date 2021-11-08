@@ -86,11 +86,15 @@ Staking involves the purchase of cryptos, then holding them in a wallet and earn
 
 ## Coins that allow Proof of Stake
 
-* Cardeno
+* Cardano
 
 * Kava on Cosmos Network
 
 * Polkadot Network (Kusama Coin also)
+
+### Staking Cardano (ADA) Coin
+
+https://cardano-node-installation.stakepool247.eu/cardano-block-producer-configuration/stakepool-operator-scripts-spos
 
 ### Staking Kava Coin
 
