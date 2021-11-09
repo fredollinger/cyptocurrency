@@ -55,6 +55,15 @@ NOTE: At the bottom, it will allow you to find places to buy obscure coins.
 
 * Live Coin Watch https://www.livecoinwatch.com/
 
+# Types of Chains
+
+There are several broad classifications of chains:
+
+1. Proof of Work - Oldest like Bitcoin
+
+2. Proof of Stake - Proof that you own certain coins like Cardana Coin
+
+3. Proof of History - Solana Coin
 
 # What is DeFi?
 
@@ -91,6 +100,10 @@ Staking involves the purchase of cryptos, then holding them in a wallet and earn
 * Kava on Cosmos Network
 
 * Polkadot Network (Kusama Coin also)
+
+* Pancake Swap
+
+* Koge https://kogefarm.io/vaults
 
 ### Staking Cardano (ADA) Coin
 
@@ -134,13 +147,15 @@ Validation requires block validators verifying the authenticity of transactions,
 
 1. Metamask is a web browser plugin and one of the best wallets.
 
+https://icoholder.com/blog/metamask-wallet-review/
+
 2. Exodus for software/app based wallet.
 
 3. Trust wallet
 
 ## Hardware Wallets
 
-1. Ledger is a hardware wallet: https://shop.ledger.com/products/ledger-nano-s
+1. Ledger https://shop.ledger.com/products/ledger-nano-s
 
 2. Trezor
 
