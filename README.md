@@ -49,6 +49,8 @@ or another exchange.
 
 * Binance - Has its own blockchain and coin. Lots of coins that can not be bought in many other exchanges.
 
+* Kucoin - Lots of coins. Outside US so probably need to buy coins from another market and transfer it.
+
 ## Price Charts
 
 NOTE: At the bottom, it will allow you to find places to buy obscure coins.
@@ -137,7 +139,9 @@ https://support.polkadot.network/support/solutions/articles/65000168057-how-do-i
 
 ## Coins that Allow Validating
 
-Validation requires block validators verifying the authenticity of transactions, while consensus consists of determining and agreeing on the ordering of events in a blockchain. Validation, thus, comes before consensus.
+Validation requires block validators verifying the authenticity of
+transactions, while consensus consists of determining and agreeing on the
+ordering of events in a blockchain. Validation, thus, comes before consensus.
 
 * Polkadot Network (Kusama Coin also)
 
@@ -172,3 +176,21 @@ https://www.kraken.com/en-us/learn/what-is-stellar-xlm/?gclid=CjwKCAjwoP6LBhBlEi
 You can go here then go to Polygon Bridge, connnect your wallet then swap for gas.
 
 https://wallet.polygon.technology/
+
+Avalance (AVAX) also apparantly has cheap gas.
+
+# Coin Resources
+
+1. Staking Rewards
+
+https://www.stakingrewards.com/earn/cardano/
+
+2. Mining Crypto
+
+https://unmineable.com/
+
+3. Price Charts
+
+Lets you make a fake portfolio and to create custom watch lists.
+
+https://coinmarketcap.com/
