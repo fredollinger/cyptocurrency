@@ -51,6 +51,8 @@ or another exchange.
 
 * Kucoin - Lots of coins. Outside US so probably need to buy coins from another market and transfer it. Also good staking.
 
+* Gate IO https://www.gate.io/
+
 ## Price Charts
 
 NOTE: At the bottom, it will allow you to find places to buy obscure coins.
