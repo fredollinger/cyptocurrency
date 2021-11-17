@@ -167,6 +167,10 @@ ordering of events in a blockchain. Validation, thus, comes before consensus.
 
 https://icoholder.com/blog/metamask-wallet-review/
 
+2. Fearless Wallet allows stacking of DOT (16% APY) and others.
+
+https://fearlesswallet.io/ 
+
 2. Exodus for software/app based wallet.
 
 3. Trust wallet
