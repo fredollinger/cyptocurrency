@@ -49,7 +49,7 @@ or another exchange.
 
 * Binance - Has its own blockchain and coin. Lots of coins that can not be bought in many other exchanges.
 
-* Kucoin - Lots of coins. Outside US so probably need to buy coins from another market and transfer it.
+* Kucoin - Lots of coins. Outside US so probably need to buy coins from another market and transfer it. Also good staking.
 
 ## Price Charts
 
@@ -95,19 +95,33 @@ https://cryptoadventure.com/crypto-staking-delegating-and-validating-explained/
 
 Staking involves the purchase of cryptos, then holding them in a wallet and earning interest from it.
 
-## Coins that allow Proof of Stake
+## Coins that allow Proof of Stake And Where to Stake them
+
+### Kraken 
 
 * Cardano
 
-* Kava on Cosmos Network
+* KAVA on Cosmos Network 
 
 * Polkadot Network (Kusama Coin also)
 
-* Pancake Swap
+### Pancake Swap 
 
-* Koge https://kogefarm.io/vaults
+* CAKE
 
-### Staking Cardano (ADA) Coin
+### Koge Farms
+
+* KOGE https://kogefarm.io/vaults
+
+### Wonderland
+
+* TIME https://docs.wonderland.money/
+
+## Running Staking Servers
+
+This is a bit more technical as it requires buying hardware to run staking.
+
+### Running a Cardano (ADA) Coin Staking Server
 
 https://cardano-node-installation.stakepool247.eu/cardano-block-producer-configuration/stakepool-operator-scripts-spos
 
