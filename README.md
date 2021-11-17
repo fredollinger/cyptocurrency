@@ -208,3 +208,12 @@ https://unmineable.com/
 Lets you make a fake portfolio and to create custom watch lists.
 
 https://coinmarketcap.com/
+
+# Exploring the Blockchain
+
+There are web sites which allow you to take a peek into the actual block chain.
+Each chain has its own site.
+
+## Avalanche Chain (AVAX)
+
+https://snowtrace.io/
