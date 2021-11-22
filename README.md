@@ -18,6 +18,7 @@ Cyptocurrency ideas
 * Binance
 * Ethereum2
 * Cosmos
+* Binance - Though they are also a broker, they have their own Binance Coin and their own blockchain.
 
 # Mining ROI
 
@@ -52,6 +53,8 @@ or another exchange.
 * Kucoin - Lots of coins. Outside US so probably need to buy coins from another market and transfer it. Also good staking.
 
 * Gate IO https://www.gate.io/
+
+* OK Coin - Supposedly has the best fees
 
 ## Price Charts
 
@@ -198,6 +201,10 @@ You can go here then go to Polygon Bridge, connnect your wallet then swap for ga
 https://wallet.polygon.technology/
 
 Avalance (AVAX) also apparantly has cheap gas.
+
+3. How to get on Binance (BNB) Chain without a Binance account?
+
+https://cryptocurrencyfacts.com/how-to-use-binance-smart-chain-if-you-cant-use-binance/
 
 # Coin Resources
 
