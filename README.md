@@ -206,6 +206,10 @@ Avalance (AVAX) also apparantly has cheap gas.
 
 https://cryptocurrencyfacts.com/how-to-use-binance-smart-chain-if-you-cant-use-binance/
 
+4. What is DAO?
+
+https://www.reddit.com/r/CryptoCurrency/comments/ragxwq/i_spent_5_hours_researching_what_a_dao_is_so_you/
+
 # Coin Resources
 
 1. Staking Rewards
