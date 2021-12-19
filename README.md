@@ -238,3 +238,13 @@ Each chain has its own site.
 ## Avalanche Chain (AVAX)
 
 https://snowtrace.io/
+
+# References
+
+1. Best Technical Info: https://www.youtube.com/channel/UCJWCJCWOxBYSi5DhCieLOLQ
+
+2. Best Coin Reviews: https://www.youtube.com/channel/UCqK_GSMbpiV8spgD3ZGloSw
+
+3. Dash School: https://www.youtube.com/watch?v=e7UwwcCKj4Y...
+
+4.  Blockchain Computational Physics: https://pubs.rsc.org/.../articlepdf/2020/sc/d0sc01523g
