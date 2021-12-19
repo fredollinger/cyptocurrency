@@ -92,6 +92,10 @@ https://telemetry.polkadot.io/#map/0x91b171bb158e2d3848fa23a9f1c25182fb8e20313b2
 
 https://cardano-node-installation.stakepool247.eu/cardano-node-prerequisites
 
+## Cronos
+
+https://cronos.crypto.org/docs/getting-started/cronos-mainnet.html#step-3-run-everything
+
 # Making Money
 
 https://cryptoadventure.com/crypto-staking-delegating-and-validating-explained/
