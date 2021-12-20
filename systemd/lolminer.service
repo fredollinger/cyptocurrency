@@ -1,0 +1,10 @@
+[Unit]
+Description=Run Ethereum LoLMiner
+
+[Service]
+Type=oneshot
+ExecStart=/home/mrt/1.38/mine_eth.sh --log=on --logfile=/var/log/lolminer.log
+User=mrt
+
+[Install]
+WantedBy=multi-user.target
