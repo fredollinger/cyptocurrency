@@ -248,3 +248,5 @@ https://snowtrace.io/
 3. Dash School: https://www.youtube.com/watch?v=e7UwwcCKj4Y...
 
 4.  Blockchain Computational Physics: https://pubs.rsc.org/.../articlepdf/2020/sc/d0sc01523g
+
+5. How to Evaluate a Coin: https://www.youtube.com/watch?v=t6S_vC5IE_Y
