@@ -104,11 +104,19 @@ https://cryptoadventure.com/crypto-staking-delegating-and-validating-explained/
 
 Staking involves the purchase of cryptos, then holding them in a wallet and earning interest from it.
 
-## Coins that allow Proof of Stake And Where to Stake them
+How to pick a good staking pool: https://viperstaking.com/ada-pools/choosing-a-pool/
+
+## Coins that allow Proof of Stake And Exchanges to Stake them
+
+The simplest way to stake coins is to use an exchange to do so:
+
+### OKCoin
+
+* Polygon MATIC
 
 ### Kraken 
 
-* Cardano
+* Cardano ADA
 
 * KAVA on Cosmos Network 
 
