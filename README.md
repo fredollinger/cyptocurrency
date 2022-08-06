@@ -2,6 +2,10 @@
 
 Cyptocurrency ideas
 
+Check for scams:
+
+https://isthiscoinascam.com/check/cardano
+
 # Names of Block Chains
 
 ## Generation I
